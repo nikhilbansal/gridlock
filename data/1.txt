@@ -1,0 +1,85 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJp8Umg2cUrjsRb_yRlvufXI4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EmA2NTIsIFNyaW5pdmFnaWx1IE1haW4gUmQsIEtvcmFtYW5nYWxhIDR0aCBCbG9jaywgS29yYW1hbmdhbGEsIEJlbmdhbHVydSwgS2FybmF0YWthIDU2MDAzNCwgSW5kaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 12.9343411,
+               "lng" : 77.63138479999999
+            },
+            "southwest" : {
+               "lat" : 12.9326986,
+               "lng" : 77.62974149999999
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 255
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 69
+               },
+               "end_address" : "652, Srinivagilu Main Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+               "end_location" : {
+                  "lat" : 12.9343411,
+                  "lng" : 77.62974149999999
+               },
+               "start_address" : "170, Srinivagilu Main Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+               "start_location" : {
+                  "lat" : 12.9326986,
+                  "lng" : 77.63138479999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 255
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 12.9343411,
+                        "lng" : 77.62974149999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003e80 Feet Main Rd\u003c/b\u003e/\u003cb\u003eSrinivagilu Main Rd\u003c/b\u003e toward \u003cb\u003e10th Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Grafs Lifestyle (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "k||mAckyxMuAtAyCvCwAxA"
+                     },
+                     "start_location" : {
+                        "lat" : 12.9326986,
+                        "lng" : 77.63138479999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k||mAckyxMgIfI"
+         },
+         "summary" : "80 Feet Main Rd/Srinivagilu Main Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
